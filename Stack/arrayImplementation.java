@@ -18,7 +18,7 @@ public class arrayImplementation {
                 return -1;
             }
             return arr[idx - 1];
-
+            
         }
 
         int pop() {
