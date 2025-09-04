@@ -1,6 +1,4 @@
-package queue;
-
-import java.util.*;
+package Queue;
 
 public class BasicsSTL {
     public static void main(String[] args) {

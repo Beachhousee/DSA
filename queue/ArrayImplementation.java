@@ -1,3 +1,5 @@
+package Queue;
+package Queue;
 public class ArrayImplementation {
   public static class queueA {
     int f = -1;
